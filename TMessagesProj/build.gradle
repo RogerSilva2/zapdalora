@@ -31,7 +31,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile file('/home/rogersilva/AndroidStudioProjects/Plus-Messenger/TMessagesProj/config/debug/debug.keystore')
+//            storeFile file('/home/rogersilva/AndroidStudioProjects/Plus-Messenger/TMessagesProj/config/debug/debug.keystore')
         }
         release {
 //            storeFile file("config/release.keystore")
@@ -84,11 +84,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.telegram.plus"
+        applicationId "com.campanhacompleta.zapdalora"
         minSdkVersion 9
         targetSdkVersion 21
-        versionCode 458
-        versionName "2.5.2.1"
+        versionCode 1
+        versionName "1.0.0"
     }
 
     dexOptions {

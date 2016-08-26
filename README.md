@@ -15,7 +15,7 @@ Apply themes shared by other users
 
 **SOCIAL:** Get in touch with other Zap da Lôra users trough [our Google+ community](https://plus.google.com/communities/106927015963860485525)
 
-This repo contains the source code for [Zap da Lôra App for Android](https://play.google.com/store/apps/details?id=org.telegram.plus).
+This repo contains the source code for [Zap da Lôra App for Android](https://play.google.com/store/apps/details?id=com.campanhacompleta.zapdalora).
 
 ### USAGE
 **Beware of using the dev branch and uploading it to any markets, in many cases it not will work as expected**.
